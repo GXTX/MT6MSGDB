@@ -1,0 +1,10 @@
+build/
+Debug/
+Release/
+bin/
+obj/
+.vscode/
+.vs/
+3rdparty/
+[Vv]ersion.h
+*.exe
